@@ -1,6 +1,5 @@
-//UpdateTime   2023-03-13 15:33
-//@zmqcherish, @RuCu6, @ddgksf2013
-
+//Author      @zmqcherish, @RuCu6, @ddgksf2013
+//UpdateTime  2023-03-13 15:33
 
 //@https://github.com/RuCu6/QuanX/blob/main/Scripts/weibo.js
 // 2023-03-11 08:55
@@ -672,7 +671,12 @@ function checkSearchWindow(item) {
 }
 
 
-///##### ======== 分割线 ======== ######///
+
+
+///####### ======== 分割线 ======== ########///
+
+
+
 
 
 //@https://github.com/ddgksf2013/Scripts

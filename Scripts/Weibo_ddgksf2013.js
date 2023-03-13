@@ -11,6 +11,15 @@
 > 脚本声明：本脚本是在Zmqcherish原创基础上优化自用
 > 脚本声明：若有侵犯原作者权利，请邮箱联系删除
 
+//###=== weibo_search_info ===###
+{"data":{"expiration_time":"86400","cards":[{"tip":"\u641c\u7d22\u5fae\u535a","word":""}]},"info":"","retcode":0}
+
+
+
+
+
+
+
 //### === Weibo === ###
 const version = "V2.0.103";
 
